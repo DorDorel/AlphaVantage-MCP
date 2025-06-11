@@ -21,6 +21,8 @@ To enable the Alpha Vantage MCP server, define it under the `mcpServers` section
 
 ```
 
+[Get Dart SDK](https://dart.dev/get-dart)
+
 From inside the MCP server directory, you can test it manually with:
 ```code
 dart pub get
